@@ -1,0 +1,17 @@
+header {
+  height: 100px;
+  background: rgba(15, 0, 30, 0.4);
+  backdrop-filter: blur(20px);
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  right: 0;
+}
+.header-logo {
+  width: 200px;
+  margin-right: 40px;
+}

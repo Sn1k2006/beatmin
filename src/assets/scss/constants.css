@@ -1,0 +1,20 @@
+:root {
+  --bg-main: #0F001E;
+  --bg-secondary: rgba(255, 255, 255, 0.1);
+  --main-gradient: linear-gradient(276.98deg, #00AF70 0%, #00E3E6 100%);
+  --secondary-gradient: linear-gradient(284.04deg, rgba(0, 175, 112, 0.2) 0%, rgba(0, 227, 230, 0.2) 100%);
+  --tint-color: #266EFF;
+  --text-color: #ffffff;
+  --text-muted: rgba(255, 255, 255, .5);
+  --text-disabled: rgba(255, 255, 255, .5);
+  --divider: rgba(255, 255, 255, 0.1);
+  --border: rgba(255, 255, 255, 0.3);
+  --error: #FF5B50;
+  --success: green;
+
+  --transition: all .3s ease;
+  --font-refular: 'Montserrat-Regular', sans-serif;
+  --font-bold: 'Montserrat-Bold', sans-serif;
+  --font-druk: 'DrukWideCyr-Super', sans-serif;
+  --font-semiBold: 'Montserrat-SemiBold', sans-serif;
+}

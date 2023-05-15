@@ -1,0 +1,16 @@
+.react-responsive-modal-modal {
+  background: linear-gradient(290.32deg, rgba(0, 175, 112, 0.2) 0%, rgba(0, 227, 230, 0.2) 100%);
+  backdrop-filter: blur(40px);
+  border-radius: 64px;
+  padding: 32px;
+}
+.registration-modal {
+  width: 346px;
+  text-align: center;
+}
+.modal-close {
+  position: absolute;
+  right: 32px;
+  top: 32px;
+  cursor: pointer;
+}

@@ -1,0 +1,20 @@
+.btn-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  cursor: pointer;
+  width: 68px;
+  height: 68px;
+  min-width: 68px;
+  box-shadow: -4px -4px 20px rgba(0, 227, 230, 0.3), 4px 4px 20px rgba(0, 182, 138, 0.3);
+  background-color: #fff;
+}
+.btn-play-equalizer {
+  position: absolute;
+  width: 1.35px;
+  height: 1.35px;
+  border-radius: 6px;
+  background: #00B68A;
+  height: 5px;
+}
